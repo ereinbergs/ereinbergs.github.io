@@ -1,7 +1,7 @@
 ---
 title: "Erik Reinbergs, PhD"
 subtitle: "assistant professor & licensed psychologist"
-image: /images/headshot.jpeg
+image: /files/headshot.jpeg
 about:
   template: trestles
   image-shape: round
@@ -14,7 +14,7 @@ about:
       href: mailto:erik.reinbergs@usu.edu
     - icon: file-earmark-pdf
       text: cv
-      file: /docs/cv.pdf
+      file: /files/cv.pdf
     - icon: google
       text: google scholar
       href: https://scholar.google.com/citations?user=K5TltZ4AAAAJ&hl=en
