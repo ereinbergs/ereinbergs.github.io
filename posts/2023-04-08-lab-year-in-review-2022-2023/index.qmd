@@ -7,11 +7,11 @@ categories: [lab updates]
 ---
 This was a busy year for the Reinbergs Lab. Congratulations to both Mary Beth and Carmen who defended their master's theses! The lab had one publication accepted on measuring attitudes related to suicide prevention and submitted another manuscript on crisis/suicide training in school psychology. Dr. Reinbergs gave six presentations at national conferences, most of which involved students. He guest lectured on working with suicidal youth to school counseling grad students at the UMass Amherst. Dr. Reinbergs was also invited to a suicide prevention summit with leading suicidologists with the [Jordan Elizabeth Harris Foundation](https://jordanharrisfoundation.org/?ref=ereinbergs.ghost.io) in Fort Worth, TX. Last summer, Dr. Reinbergs attended the [IES Advanced Training Institute on Single-case Research Methods](https://singlecaseinstitute.uoregon.edu/?ref=ereinbergs.ghost.io). We have several projects in the works that we hope to see published within the next year.
 
-![](files/nasp2023-group.jpeg)
+![](../../files/nasp2023-group.jpeg)
 *Mary Beth Morgan, Carmen Ibarra, and Catherine Drott presenting on DBT skills to a packed room at NASP 2023.*
 
-![](/files/nasp2023-carmen.jpeg)
+![](../../files/nasp2023-carmen.jpeg)
 *Carmen Ibarra presenting a poster on her master's thesis at NASP 2023.*
 
-![](/files/scrd-group.jpeg)
+![](../..//files/scrd-group.jpeg)
 *Dr. Reinbergs at the IES Advanced Training Institute on Single-Case Research Methods.*
