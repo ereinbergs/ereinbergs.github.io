@@ -1,0 +1,20 @@
+---
+title: "Schools are not prepared for flooding caused by the climate crisis"
+author: "Erik Reinbergs"
+date: "2021-09-03"
+date-modified: "2021-09-03"
+categories: [school psychology]
+---
+This week, Hurricane Ida wrought havoc and flooding from New Orleans to New York City. Expert research has shown that the climate crisis is increasing the frequency and severity of climate disasters. It is no secret that huge amounts of infrastructure are increasingly vulnerable to these disasters. As communities make plans (or fail to make plans) to adapt to the damages already locked in by burning fossil fuels, schools cannot be left out of the discussion.
+
+A colleague and I recently [published a brief analysis](https://newprairiepress.org/ijssw/vol5/iss2/8/?ref=ereinbergs.ghost.io) of publicly available climate modeling data to estimate how many schools in the US will flood under various climate change scenarios. We used the [Surging Seas Risk Finder](https://riskfinder.climatecentral.org/?ref=ereinbergs.ghost.io) from [Climate Central](https://www.climatecentral.org/?ref=ereinbergs.ghost.io) to aggregate data and suggest how educators, students, and community members might use this tool to advocate for their communities to prepare.
+
+Our calculations show that even under a “medium” climate change scenario, roughly 5 feet of sea level rise by 2100, 1677 schools in the coastal US would flood each year by 2100. Under the same scenario, 2262 coastal US schools would flood every 10 years by 2100.
+
+These are admittedly crude calculations; we work in the field of school psychology and are not climate scientists. And our calculations are almost certainly underestimates. A “medium” climate change scenario is fast becoming overly optimistic. Upper ranges of climate change scenarios put sea level rise at over 10 feet by 2100. The calculations also assume no change in the severity or frequency of storms, which we are already witnessing. Our calculations only included coastal areas (minus Alaska and Washington DC, for which data were not available) — but we know inland states will experience flooding linked to the climate crisis as well.
+
+The toll of such flooding is not distributed equally. Already disadvantaged communities will bear the brunt of the costs. These costs are monetary, but also include damages to physical and mental health (including loss of life), losses of instructional time and educational records, and loss of community connections and gathering places. Additionally, many communities use schools as shelters during times of crisis — an option that will not be available when they have flooded.
+
+Given the damages to schooling the climate crisis presents — particularly the mental health of students, educators, and families — we argue that community planning for the climate crisis should include school psychologists at the table. As experts in both schooling and mental health, school psychologists (and other school-based mental health providers) are well positioned to make a difference both before, during, and after community climate crises.
+
+Further information on how climate crisis induced flooding effects schools is available in [our paper](https://ereinbergs.ghost.io/schools-are-not-prepared-for-flooding-caused-by-the-climate-crisis/) linked above, which is open access and available for free. More information about school psychologists is available from the [National Association of School Psychologists](https://www.nasponline.org/?ref=ereinbergs.ghost.io). Lastly, check out the Surging Seas Risk Finder tool below by exploring the data for your area.

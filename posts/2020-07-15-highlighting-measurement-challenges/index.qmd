@@ -1,0 +1,71 @@
+---
+title: "Highlighting measurement challenges in suicide research"
+description: |
+  This is a re-post of a [blog post](https://netecr.org/2020/07/15/measurement-challenges/?ref=ereinbergs.ghost.io) I wrote for the [Network of Early Career Researchers in Suicide and Self-harm (netECR)](https://netecr.org/?ref=ereinbergs.ghost.io)
+author: "Erik Reinbergs"
+date: "2020-07-15"
+date-modified: "2020-07-15"
+categories: [suicide prevention, psychometrics]
+toc: true
+---
+Measuring complex constructs related to suicide (i.e., suicidal ideation, planning, behaviors, intent, attempts, etc.) is extremely challenging. Many of these terms lack agreed upon definitions and are frequently used imprecisely, making accurate measurement difficult in even the best designed studies \[1\]. Without accurate measurement, however, the validity of psychological research is severely limited. This post briefly overviews a handful of the many measurement challenges that are particularly relevant to suicide research.
+
+### Prediction challenges
+
+Researchers are still largely unable to predict who will die by suicide from the general population with any meaningful accuracy. When studying how well a measure or set of measures can predict an outcome, a statistic called the positive predictive value or PPV is calculated. Roughly speaking, this would be the percent of suicides that were correctly predicted. The PPV depends on the base rate of the outcome the researcher is trying to predict. For simplicity, if the base rate of suicide is 10 per 100,000 people (the actual rate in the United States, for example, is closer to 14 per 100,000) and we had an idealized measure with 99% specificity (detects 99% of true negatives) and 99% sensitivity (detects 99% of true positives), we could still only predict suicide correctly 1% of the time \[2\]. Using a high-risk population, say 500 per 100,000, the PPV using the idealized measure is 0.33 – meaning the prediction would be correctly only 1 out of 3 times \[2\]. Improved measurement can improve predictions, but only up to a certain point.
+
+### Psychometric challenges
+
+Researchers have a variety of methods to evaluate the psychometric qualities of their measures. Some, like citing the reliability of the measure from previous studies or informally examining the content validity of the items when selecting the measure, are common in applied research. Others, discussed below, are much less commonly evaluated in applied work but could be incorporated more widely into suicide research.
+
+One such area is measurement invariance (i.e., whether the measure used performs the same across groups or time periods). Better establishing research findings across different groups (i.e., gender, race, socioeconomic status, professional groups, diagnoses, or across time) may lead to more effective and tailored interventions. However, to do this well, the measures used need to be tested to see if they perform the same across groups. If they do not, this may compromise the validity of the study yet on the other hand may lead to important questions investigating the reason for the differences. Confirmatory factor analysis and item response theory techniques can help investigate questions of invariance \[3\]\[4\].
+
+Another area is developing measures that help quantify _how much_ more of a construct a person has versus other subjects. In other words, knowing one person is more suicidal than a different person is useful – but knowing _how much more_ would likely be much more informative. Most measures used in psychology are ordinal measures – that is, they allow researchers to rank who has more or less of a construct but not how much more or less. On an ordinal scale, a score of 10 means there is more of what’s measured than a score of 5, but it does not tell us that a 10 is twice as much as a 5. To answer that question, different types measures need to be studied, developed, and used, but this type of measure development is rarely undertaken in suicide research. While ordinal scales are often treated as interval for analysis, this assumption can lead to inaccuracies. Rasch models provide one avenue for this work \[5\].
+
+When using single item measures of suicidality with ordinal response options (e.g., the suicide item on the Hamilton Depression Rating Scale), the assumption is that amount of what is measured corresponds to a subsequent increase at each successive response choice (i.e., monotonicity). This is an assumption, however, that needs to be tested. Recent work, for example, tested whether the following item assessing suicidal behaviors was monotonic: 1 = Never; 2 = It was just a brief passing thought; 3 = I have had a plan at least once to kill myself but did not try to do it; 4 = I have had a plan at least once to kill myself and really wanted to die; 5 = I have attempted to kill myself, but did not want to die; 6 = I have attempted to kill myself, and really hoped to die. The study found, however, that the item was only monotonic if responses 4 and 5 were swapped – suggesting a plan with high intent may be a higher threshold than a low-intent attempt \[6\]. Assessing multiple items along a continuum in this way may prove even more informative.
+
+Most frequently, measures in applied research are scored using most straight-forward option: sum scores. However, sum scores have significant draw backs as they assume the scale is unidimensional and that each item contributes equally to the construct. The dimensionality of scales and the relative contribution of each item is often assumed, yet rarely tested. The increased use of factor scoring methods may add important accuracy to measures \[3\]. It may also add greater conceptual validity in allowing certain items to ‘count’ more than others (e.g., having a suicidal ideation item contribute more to the total score than a different item on a depression scale).
+
+### Construct challenges
+
+The various constructs that make up suicidal thoughts and behaviors are certainly not the only ones relevant to suicide research. Even psychological constructs that receive much more research attention are notoriously difficult to precisely define. When using DSM-5 criteria, for example, there are roughly 1,000 combinations of symptoms that can qualify someone as having Major Depressive Disorder \[7\]. Given that suicidal thoughts and/or behaviors are one of these symptoms, and how often the presence of suicidal thoughts and behaviors is assessed in depression scales, further specifying within research studies well-known constructs like depression and being transparent about the choice to use one depression scale over another in suicide research may prove useful to the field. For example, Fried has shown that among seven commonly-used depression measures, the items measured 52 distinct symptoms and often had surprisingly little overlap in the symptoms measured \[8\]. There are also challenges regarding which quality of the construct is measured (i.e., presence/absence, frequency, duration, intensity). These qualities are often conflated within one item or one measure, adding to the precision problems of measurement in the field.
+
+There are also many constructs related to suicide that have received far less measurement attention than depression. These constructs – such as hopelessness, thwarted belongingness, perceived burdensomeness, acquired capability, attitudes toward suicide, attitudes toward firearms, belief in the preventability of suicide, psychological flexibility, self-concept, and many others – often do not receive the measurement attention that might further improve their utility to the field. They also sometimes show surprising, if not contradictory findings that might be further explored through measurement research. For example, one study found that 69% of surveyed emergency room nurses thought lethal means counseling was effective in preventing suicide and 91% felt that lethal means counseling was something that providers should do. However, most nurses (60%) in the study reported doubting that suicide was preventable \[9\]. Does this finding present a potentially important intervention point – or does this evidence measurement and construct issues? Without better measurement, interpreting the “why” of this study would be extremely difficult and the questions raised remain open.
+
+Measurement techniques can also help us understand which symptoms and/or which related constructs might be most effective to target first. Techniques from network psychometrics can show which symptoms exert the most influence on the other symptoms \[10\]. In other words, it can help us develop interventions that start by targeting the one symptom that if improved would be most likely to result in improvements in other symptoms in the network. Importantly, network psychometrics can also examine “tipping points” in symptom networks that occur when certain symptom increases cause dramatic increases across the network. This could prove especially meaningful in suicide research in identifying acute risk \[11\].
+
+Given the difficulty of measuring more abstract constructs like suicidal thoughts and behaviors or related constructs like depression, more concrete measures like self-reports of suicide attempts are sometimes used. However, this is also not without its own measurement challenges. Recent research has shown that about 35% of veterans answered inconsistently when given five different measures of prior suicide attempts \[12\]. Data from emergency room visits, hospital admissions, and death certificates are also useful sources of less abstract data – but only to the extent that we know how well attempts and suicides are classified in those sources.
+
+### Meeting these challenges
+
+Measurement is a critical component of research, yet its nuances and technicalities are often overlooked. Flake and Fried call this the “measurement schmeasurement” attitude in research \[13\]. Techniques like confirmatory factor analysis, network psychometrics, item response theory, and Rasch models can overcome some of these limitations and could be further incorporated into applied suicide research. Thankfully, these techniques are more readily available than ever before given their implementation in the free and open-source R statistical software packages, the increase in large datasets, and extensive online tutorials in their use.
+
+For those that would like to read more about measurement and psychometric issues, Fried and Flake have put together a helpful _Google Doc_ of essential readings that can be found here: [**Measurement Matters Resource List**](https://docs.google.com/document/d/11jyoXtO0m2lUywpC04KjLvI5QcBUY4YtwEvw6cg2cMs/edit?ref=ereinbergs.ghost.io).
+
+### References
+
+1\. Silverman, M. M. (2006). The Language of Suicidology. _Suicide and Life-Threatening Behavior_, _36_(5), 519–532. [https://doi.org/10.1521/suli.2006.36.5.519](https://doi.org/10.1521/suli.2006.36.5.519?ref=ereinbergs.ghost.io)
+
+2\. Pokorny, A. D. (1983). Prediction of Suicide in Psychiatric Patients: Report of a Prospective Study. _Archives of General Psychiatry_, _40_(3), 249. [https://doi.org/10.1001/archpsyc.1983.01790030019002](https://doi.org/10.1001/archpsyc.1983.01790030019002?ref=ereinbergs.ghost.io)
+
+3\. Brown, T. A. (2015). _Confirmatory factor analysis for applied research_ (Second edition). The Guilford Press.
+
+4\. Finch, W. H., & French, B. F. (2015). _Latent variable modeling with R_. Routledge, Taylor & Francis Group.
+
+5\. Bond, T. G., & Fox, C. M. (2015). _Applying the Rasch Model: Fundamental Measurement in the Human Sciences_ (Third edition). Routledge, Taylor and Francis Group.
+
+6\. Harris, K. M., Lello, O. D., & Willcox, C. H. (2017). Reevaluating Suicidal Behaviors: Comparing Assessment Methods to Improve Risk Evaluations. _Journal of Psychopathology and Behavioral Assessment_, _39_(1), 128–139. [https://doi.org/10.1007/s10862-016-9566-6](https://doi.org/10.1007/s10862-016-9566-6?ref=ereinbergs.ghost.io)
+
+7\. Fried, E. I., & Nesse, R. M. (2015). Depression sum-scores don’t add up: Why analyzing specific depression symptoms is essential. _BMC Medicine_, _13_(1). [https://doi.org/10.1186/s12916-015-0325-4](https://doi.org/10.1186/s12916-015-0325-4?ref=ereinbergs.ghost.io)
+
+8\. Fried, E. I. (2017). The 52 symptoms of major depression: Lack of content overlap among seven common depression scales. _Journal of Affective Disorders_, _208_, 191–197. [https://doi.org/10.1016/j.jad.2016.10.019](https://doi.org/10.1016/j.jad.2016.10.019?ref=ereinbergs.ghost.io)
+
+9\. Betz, M. E., Brooks-Russell, A., Brandspigel, S., Novins, D. K., Tung, G. J., & Runyan, C. (2018). Counseling Suicidal Patients About Access to Lethal Means: Attitudes of Emergency Nurse Leaders. _Journal of Emergency Nursing_. [https://doi.org/10.1016/j.jen.2018.03.012](https://doi.org/10.1016/j.jen.2018.03.012?ref=ereinbergs.ghost.io)
+
+10\. Borsboom, D., & Cramer, A. O. J. (2013). Network Analysis: An Integrative Approach to the Structure of Psychopathology. _Annual Review of Clinical Psychology_, _9_(1), 91–121. [https://doi.org/10.1146/annurev-clinpsy-050212-185608](https://doi.org/10.1146/annurev-clinpsy-050212-185608?ref=ereinbergs.ghost.io)
+
+11\. Rogers, M. L., Hom, M. A., & Joiner, T. E. (2019). Differentiating acute suicidal affective disturbance (ASAD) from anxiety and depression Symptoms: A network analysis. _Journal of Affective Disorders_, _250_, 333–340. [https://doi.org/10.1016/j.jad.2019.03.005](https://doi.org/10.1016/j.jad.2019.03.005?ref=ereinbergs.ghost.io)
+
+12\. Hom, M. A., Stanley, I. H., Duffy, M. E., Rogers, M. L., Hanson, J. E., Gutierrez, P. M., & Joiner, T. E. (2019). Investigating the reliability of suicide attempt history reporting across five measures: A study of US military service members at risk of suicide. _Journal of Clinical Psychology_, jclp.22776. [https://doi.org/10.1002/jclp.22776](https://doi.org/10.1002/jclp.22776?ref=ereinbergs.ghost.io)
+
+13\. Flake, J. K., & Fried, E. I. (2019). _Measurement Schmeasurement: Questionable Measurement Practices and How to Avoid Them_ \[Preprint\]. PsyArXiv. [https://doi.org/10.31234/osf.io/hs7wm](https://doi.org/10.31234/osf.io/hs7wm?ref=ereinbergs.ghost.io)

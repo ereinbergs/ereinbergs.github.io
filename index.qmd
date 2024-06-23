@@ -1,0 +1,38 @@
+---
+title: "Erik Reinbergs, PhD"
+subtitle: "assistant professor & licensed psychologist"
+image: /docs/headshot.jpeg
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - icon: mastodon
+      text: mastodon
+      href: https://fediscience.org/@ereinbergs
+    - icon: envelope-at
+      text: email
+      href: mailto:erik.reinbergs@usu.edu
+    - icon: file-earmark-pdf
+      text: cv
+      file: /docs/cv.pdf
+    - icon: google
+      text: google scholar
+      href: https://scholar.google.com/citations?user=K5TltZ4AAAAJ&hl=en
+toc: false
+---
+::: {.callout-note icon=false}
+## Moving to USU!
+This summer I'll be starting a new faculty role at Utah State University. If you're interested in collaborating, I'd love to hear from you.
+:::
+
+### faculty appointments
+- Utah State University | Starting Fall 2024  
+Assistant Professor, School Psychology  
+- University of Houston Clear Lake | 2021-2024  
+Assistant Professor, School Psychology
+
+### research interests
+suicide, self-harm, youth psychopathology, school mental health, quantitative analysis, applied psychometrics
+
+### clinical interests 
+dialectical behavior therapy, acceptance and commitment therapy, behavioral activation, behavioral parent training, behavioral consultation

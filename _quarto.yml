@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: site
+
+website:
+  title: "Erik Reinbergs"
+  navbar:
+    left:
+      - text: "about"
+        file: index.qmd
+      - text: "blog"
+        file: blog.qmd
+      - text: "lab OSF"
+        href: https://osf.io/z5chm/
+  page-footer: |
+    Site made with [Quarto](https://quarto.org) and [RStudio](https://posit.co/products/open-source/rstudio/).
+
+format:
+  html:
+    theme: simplex
+    css: styles.css
+    toc: true
+
+
+

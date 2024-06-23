@@ -1,0 +1,32 @@
+---
+title: "Firearm lethal means counseling in schools"
+description: |
+  This is a re-post of a [blog post](https://netecr.org/2021/09/10/firearm-lethal-means-counseling-in-schools/?ref=ereinbergs.ghost.io) I wrote for the [Network of Early Career Researchers in Suicide and Self-harm (netECR)](https://netecr.org/?ref=ereinbergs.ghost.io)
+author: "Erik Reinbergs"
+date: "2021-09-10"
+date-modified: "2021-09-10"
+categories: [school psychology, suicide prevention, firearms]
+toc: false
+---
+Firearms are ubiquitous in the United States. However, few people here are aware that most gun deaths in the US are suicides. Young people are not exempt. Firearms account for roughly 46% of suicides in the United States for young people ages 0-24 – nearly 3,000 deaths per year – making guns the most frequently used means of suicide death for this age group in the country \[1\].
+
+Despite seemingly endless cycles of gun violence, including tragic school shooting after tragic school shooting, gun regulations remain lax in many states throughout the U.S. For example, in Texas – where I currently live – students over age 21 can legally carry firearms on college campus. Starting this fall, a permit or training is no longer a legal requirement to carry a firearm in Texas. Gun owners in Texas are can also legally store their firearms in their cars parked on the property of k-12 schools.
+
+In the US more broadly, 4.6 million children live in a home with an unlocked firearm \[2\]. Of the 70% of parents of adolescent children who report that their child cannot access their firearm(s), 30% were contradicted by adolescent report \[3\]. One in five young people reported handling a firearm within the home without their parent’s knowledge \[4\]. Perhaps most startlingly, households with youth who have expressed suicidal ideation or attempted suicide are _less_ likely to safely store their firearms that households with youth who have not expressed suicide risk \[5\]\[6\].
+
+Lethal means counseling is an approach that talks with individuals and families about limiting the accessibility of lethal means when a student or family member is suicidal – particularly securing and/or removing firearms. Means safety interventions – including means safety counseling regarding firearms – have considerable evidence in preventing suicide across a variety of populations and means, including for youth and firearms \[7\]. It is standard practice in the care of suicidal individuals and has been implemented in both mental health and medical settings such as emergency rooms and primary care practices.
+
+However, the practice is less common among school mental health staff. For example, data collected as part of my dissertation on the attitudes school principals hold toward suicide prevention, only 3% of the sample said their school offered information to parents on safer firearm storage despite implementing many other suicide prevention practices \[8\]. If this rate is reflective of the population at large, school staff are missing an important opportunity to intervene with suicidal youth and their families to help ensure safety. For those who would like to learn more about conducting lethal means counseling regarding firearms, a free online training is available [here](https://zerosuicidetraining.edc.org/enrol/index.php?id=20&ref=ereinbergs.ghost.io) \[9\]. Additionally, for a book length treatment on the relationship between firearms and suicide in the United States, Michael Anestis has written an excellent book titled _Guns and Suicide: An American Epidemic_ \[10\].
+
+### References
+
+1.  Centers for Disease Control and Prevention, 2021. Web-based Injury Statistics Query and Reporting System. Centers for Disease Control and Prevention. [https://www.cdc.gov/injury/wisqars/index.html](https://www.cdc.gov/injury/wisqars/index.html?ref=ereinbergs.ghost.io)
+2.  Azrael, D., Cohen, J., Salhi, C., & Miller, M. (2018). Firearm Storage in Gun-Owning Households with Children: Results of a 2015 National Survey. _Journal of Urban Health_, _95_(3), 295–304. [https://doi.org/10.1007/s11524-018-0261-7](https://doi.org/10.1007/s11524-018-0261-7?ref=ereinbergs.ghost.io)
+3.  Salhi, C., Azrael, D., & Miller, M. (2021). Parent and Adolescent Reports of Adolescent Access to Household Firearms in the United States. _JAMA Network Open_, _4_(3), e210989. [https://doi.org/10.1001/jamanetworkopen.2021.0989](https://doi.org/10.1001/jamanetworkopen.2021.0989?ref=ereinbergs.ghost.io)
+4.  Baxley, F., & Miller, M. (2006). Parental Misperceptions About Children and Firearms. _Archives of Pediatrics & Adolescent Medicine_, _160_(5), 542. [https://doi.org/10.1001/archpedi.160.5.542](https://doi.org/10.1001/archpedi.160.5.542?ref=ereinbergs.ghost.io)
+5.  Schnitzer, P. G., Dykstra, H. K., Trigylidas, T. E., & Lichenstein, R. (2019). Firearm suicide among youth in the United States, 2004–2015. _Journal of Behavioral Medicine_, _42_(4), 584–590. [https://doi.org/10.1007/s10865-019-00037-0](https://doi.org/10.1007/s10865-019-00037-0?ref=ereinbergs.ghost.io)
+6.  Scott, J., Azrael, D., & Miller, M. (2018). Firearm Storage in Homes With Children With Self-Harm Risk Factors. _Pediatrics_, e20172600. [https://doi.org/10.1542/peds.2017-2600](https://doi.org/10.1542/peds.2017-2600?ref=ereinbergs.ghost.io)
+7.  Miller, M., Salhi, C., Barber, C., Azrael, D., Beatriz, E., Berrigan, J., Brandspigel, S., Betz, M. E., & Runyan, C. (2020). Changes in Firearm and Medication Storage Practices in Homes of Youths at Risk for Suicide: Results of the SAFETY Study, a Clustered, Emergency Department–Based, Multisite, Stepped-Wedge Trial. _Annals of Emergency Medicine_, S0196064420301049. [https://doi.org/10.1016/j.annemergmed.2020.02.007](https://doi.org/10.1016/j.annemergmed.2020.02.007?ref=ereinbergs.ghost.io)
+8.  Reinbergs, E. J. (2020). The development and initial validation of the suicide prevention attitudes rating scale. \[Doctoral dissertation, University of Massachusetts Amherst\]. Scholarworks. [https://doi.org/10.7275/16776110](https://doi.org/10.7275/16776110?ref=ereinbergs.ghost.io)
+9.  Counseling on Access to Lethal Means (n.d.). Zero Suicide & Educational Development Center. [https://zerosuicidetraining.edc.org/enrol/index.php?id=20](https://zerosuicidetraining.edc.org/enrol/index.php?id=20&ref=ereinbergs.ghost.io)
+10.  Anestis, M. D. (2018). _Guns and suicide: An American epidemic_. Oxford University Press.

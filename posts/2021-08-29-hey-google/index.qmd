@@ -1,0 +1,52 @@
+---
+title: "Hey Google: Do school psychologists...?"
+author: "Erik Reinbergs"
+date: "2021-08-29"
+date-modified: "2021-08-29"
+categories: [school psychology]
+---
+Inspired by [this post](https://stuckonsw.medium.com/everything-you-needed-to-know-about-social-work-in-one-google-search-aa4cd3e7c3e3?ref=ereinbergs.ghost.io) by [Sean Erreger LCSW](https://stuckonsw.medium.com/?ref=ereinbergs.ghost.io), I thought I’d tackle answering some common questions about school psychology suggested by Google’s autocomplete function.
+
+First, a quick disclaimer. School psychology is a broad field and there are differences between various states and local school districts. This post will speak about the general context in the United States — but your mileage may vary. Secondly, school law (and particularly special education law) is quite complex and I am not a lawyer — this article is not legal advice nor definitive legal information.
+
+Now without further ado:
+
+### Do school psychologists get summers off?
+
+Mostly yes, with some important caveats. Most school psychologists employed in public schools follow the school calendar, meaning they are on roughly 10 month employment contracts. School psychologists that do not work in k12 schools are more likely to work year-round contracts. However, even those that work in public schools may have summer work. Some schools hire school psychologists to complete special education evaluations over the summer even though school is not in session. School psychologists also use the summer to complete professional development trainings and prepare for the coming school year. Some school psychologists also work summers providing extended school year services to special education students.
+
+### Do school psychologists work in the summer?
+
+See above.
+
+### Do school psychologists need a PhD?
+
+Mostly no. Most school psychologists in the United States posses a specialist degree (e.g., EdS), which is roughly a master’s degree plus 30 additional credits. This is the standard for practice in the k12 public school system. However, many school psychologists do have doctoral degrees (e.g., PhD or PsyD). School psychologists with a doctoral degree and that meet additional state requirements are eligible for a full psychology licensure that enables independent clinical practice outside of the school system.
+
+### Do school psychologists get paid in the summer?
+
+See above. There are opportunities for summer pay. Even if a school psychologist works a 10 month contract, they typically have the option of having their pay evenly distributed across 12 months so they do not have to budget for two months without income.
+
+### Do school psychologists make good money?
+
+This depends on what you consider good money. In general, people that work in the k12 public education system are underpaid compared to those with similar training that work outside of public education. The 2019–2020 [median salary of school psychologists](https://www.nasponline.org/about-school-psychology/workforce-and-salary-information?ref=ereinbergs.ghost.io) in the United States was $74,000. However, pay varies considerably by region. For example, the median pay in the western states was $80,000 while the median pay in the southern states was $63,000.
+
+### Do school psychologists qualify for loan forgiveness?
+
+In general, yes. More information on specific paths is available [here](https://www.nasponline.org/research-and-policy/policy-priorities/relevant-law/loan-forgiveness-for-school-psychologists?ref=ereinbergs.ghost.io).
+
+### Do school psychologists diagnose?
+
+This is a simple question with a somewhat complicated answer. Specialist-level school psychologists generally do not diagnose. However, they make recommendations to a child’s special education committee (called an IEP team) for a child to be “classified” or “found eligible” under various disability categories codified in special education law. School psychologists that are also fully licensed psychologists can diagnose. However, sometimes even these school psychologists might not provide a diagnosis when working within the school system.
+
+### Do school psychologists need to be licensed?
+
+Yes. Although, in many states use the language of “certification” for specialist-level school psychologists instead of licensure. This process is typically through the state education agency. In addition to being certified by the state education agency, doctoral-level school psychologists may also be licensed by the state board of psychology if they meet the requirements for independent practice. This process is typically through the state psychology board.
+
+### Do school psychologists do therapy?
+
+It depends. School psychologists have many roles within various school systems. Some exclusively provide assessment while some have job duties that also include counseling. In general, school-based counseling is not the same as private “therapy” in that the goal is to enable success in the school system rather than treat a diagnosed condition per se. Given high caseloads and limited resources in public schools, school psychologists typically do not provide the weekly hour long therapy sessions that the outside mental health sector might provide. Rather, they focus on brief skill-building counseling, crisis counseling, and consultation with teachers and parents to help improve the child’s functioning. School psychologists who are licensed at the doctoral level may provide more traditional therapy in out-of-school settings.
+
+### Do school psychologists diagnose autism?
+
+As discussed above, it depends. In general, most school psychologists do not provide medical “diagnoses” but do make recommendations that an IEP team consider a student eligible under the special education category of autism. In special education, eligibility is a team decision versus a diagnosis from one person. For autism assessments, there may be other assessment personnel involved besides school psychologists such as speech-language pathologists, occupational therapists, and special education teachers. Doctoral school psychologists that are licensed for independent practice can diagnose autism, although they might not provide a diagnosis if they’re working in the school system depending on local norms and regulations.
